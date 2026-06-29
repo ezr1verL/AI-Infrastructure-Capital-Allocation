@@ -131,3 +131,18 @@ AI-Infrastructure-Research/
 
 Built an evidence-weighted research framework for AI infrastructure investing by integrating 15+ primary sources (IEA, DOE/LBNL, PJM, ERCOT, NERC) into a thesis-validation system with source reliability scoring, evidence-type classification, scenario analysis, and decision mapping.
 
+## Research Transition
+
+The thesis has been sufficiently validated to justify further analysis.
+
+The next stage is no longer to determine whether power is a constraint.
+
+Instead, the framework shifts toward identifying:
+
+• where the constraint is concentrated;
+
+• who controls the constrained assets;
+
+• which infrastructure segments benefit;
+
+• and how those observations may influence long-term capital allocation.
