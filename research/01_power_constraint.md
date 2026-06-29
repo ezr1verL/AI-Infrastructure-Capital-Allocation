@@ -93,16 +93,15 @@ Several observations emerge consistently from the available evidence.
 
 ### 4. What Remains Uncertain
 
-Although the overall thesis is supported, several sources of uncertainty remain and are likely to influence future investment implications.
+The overall thesis is supported, but several uncertainties could still affect the investment implications.
 
-First, the ultimate scale of electricity demand remains uncertain. Forecasts may overstate realized demand by including speculative projects, double-counting announced developments, or assuming faster project execution than ultimately occurs. ERCOT's adjustment methodology—reducing requested large-load demand based on observed realization rates—illustrates why announced capacity should not automatically be treated as firm demand.
+The first is the scale of future electricity demand. Forecasts may overstate realized demand if they include speculative projects, double-count announced developments, or assume projects come online faster than they actually do. ERCOT's adjustment methodology, which reduces requested large-load demand based on observed realization rates, is a useful reminder that announced capacity should not be treated as firm demand.
 
-Second, improvements in AI efficiency could materially alter long-term electricity consumption. Advances in semiconductor design, model architecture, inference optimization, cooling technologies, and workload management may reduce energy intensity. At the same time, those efficiency gains could be offset by broader AI adoption, larger models, and higher inference volumes. The net effect remains uncertain.
+AI efficiency is another open question. Improvements in semiconductor design, model architecture, inference optimization, cooling technologies, and workload management could reduce energy intensity over time. Those gains could also be offset by wider AI adoption, larger models, and higher inference volumes. The net effect remains unclear.
 
-Finally, regional policy and utility practices continue to evolve. Large-load tariffs, interconnection reform, cost-allocation rules, behind-the-meter generation, and utility planning processes may significantly influence where new AI infrastructure can be deployed and which regions ultimately attract investment.
+Regional policy and utility practices are still evolving. Large-load tariffs, interconnection reform, cost allocation rules, behind-the-meter generation, and utility planning processes could all influence where new AI infrastructure can be deployed and which regions attract investment.
 
-These uncertainties do not invalidate the thesis. Instead, they reinforce why regional analysis and continuous evidence updates remain central to the research framework.
-
+These uncertainties do not invalidate the thesis. They explain why regional analysis and regular evidence updates remain important to the research framework.
 ---
 
 ### 5. Research Decision Framework
