@@ -132,14 +132,11 @@ This framework shifts the research process from validating a macro thesis toward
 
 The evidence reviewed in this module supports one central conclusion: power availability should be treated as a credible investment constraint for AI infrastructure over the coming decade.
 
-This conclusion does not imply that every region faces the same level of risk or that every announced project will ultimately be developed. Instead, the available evidence consistently indicates that power availability is becoming an increasingly important factor in determining where AI infrastructure can be deployed, how quickly projects can proceed, and which infrastructure assets may become strategically important.
+That does not mean every region faces the same level of risk, or that every announced project will be built. The evidence does suggest that power availability is becoming more important in determining where AI infrastructure can be deployed, how quickly projects can move forward, and which infrastructure assets may become relevant.
 
-The thesis is therefore validated, with an important qualification: **power availability is a regional and scenario-dependent constraint rather than a uniform national shortage.**
+The thesis is therefore validated, with one important qualification: power availability is a regional and scenario-dependent constraint, not a uniform national shortage.
 
-With the underlying premise established, the research can now shift from validating **whether** the constraint exists to understanding **where** it is most significant, **why** it emerges, and **how** those differences may ultimately influence long-term capital allocation across the AI infrastructure value chain.
+With that premise established, the research can now shift from asking whether the constraint exists to examining where it is most significant, why it emerges, and how those differences may influence long-term capital allocation across the AI infrastructure value chain.
 
-Validation of the thesis does not establish an investment view.
-
-Instead, it establishes that power availability should be incorporated as an explicit analytical variable in subsequent capital allocation research.
-
+Thesis validation does not establish an investment view. It establishes that power availability should be included as an explicit analytical variable in later capital allocation research.
 
