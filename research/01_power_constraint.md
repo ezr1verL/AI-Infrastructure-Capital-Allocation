@@ -113,36 +113,5 @@ However, the constraint is not uniform nationally and should not be treated as d
 
 **Power availability is a credible investment constraint for AI infrastructure, but the severity is regional and scenario-dependent. The next stage should use an evidence-weighted decision framework to evaluate which regions, assets, and value-chain segments have durable advantage from power access, grid deliverability, and speed-to-power.**
 
-## Suggested Repository Structure
 
-```text
-AI-Infrastructure-Research/
-  01_Thesis_Validation/
-  02_Evidence_Database/
-  03_Scenario_Analysis/
-  04_Decision_Framework/
-  05_Company_Screening/
-  06_Watchlist/
-  07_Weekly_Updates/
-  08_Investment_Journal/
-```
 
-## Resume Positioning
-
-Built an evidence-weighted research framework for AI infrastructure investing by integrating 15+ primary sources (IEA, DOE/LBNL, PJM, ERCOT, NERC) into a thesis-validation system with source reliability scoring, evidence-type classification, scenario analysis, and decision mapping.
-
-## Research Transition
-
-The thesis has been sufficiently validated to justify further analysis.
-
-The next stage is no longer to determine whether power is a constraint.
-
-Instead, the framework shifts toward identifying:
-
-• where the constraint is concentrated;
-
-• who controls the constrained assets;
-
-• which infrastructure segments benefit;
-
-• and how those observations may influence long-term capital allocation.
