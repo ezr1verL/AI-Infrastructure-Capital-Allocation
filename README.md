@@ -4,7 +4,7 @@
 
 This repository develops an evidence-weighted research framework for evaluating capital allocation decisions under the hypothesis that power availability becomes a binding constraint for AI infrastructure growth.
 
-It does not provide stock recommendations. The project starts by testing whether power availability is a binding constraint, then maps where the constraint sits, who owns it, which parts of the value chain are exposed, and how those findings translate into capital allocation decisions.
+It does not provide stock recommendations. The project begins by testing whether power availability is a binding constraint, then examines where the constraint exists, who controls it, which parts of the value chain are exposed, and how those findings may influence long-term capital allocation.
 
 The objective is to build a repeatable research process that connects infrastructure evidence with investment implications.
 
@@ -44,7 +44,7 @@ Monitoring
 
 **Question:** Is power availability a binding constraint for AI infrastructure growth?
 
-This is the only validation module. Its purpose is to test the core hypothesis and define the evidence base for the rest of the project.
+**Objective:** Evaluate the evidence supporting this thesis. If the evidence is sufficiently strong, the following modules examine where the constraint exists, which parts of the value chain are exposed, and how it may influence long-term capital allocation.
 
 ---
 
@@ -52,15 +52,15 @@ This is the only validation module. Its purpose is to test the core hypothesis a
 
 #### Module 2: Constraint Mapping
 
-**Question:** Where are the constraints?
+**Question:** Where are the most significant power constraints?
 
-This module maps the constraint across regions, grid operators, and key AI infrastructure markets.
+**Objective:** Identify the regions, grid operators, and electricity markets where power availability is most likely to limit AI infrastructure deployment.
 
 #### Module 3: Constraint Ownership
 
 **Question:** Who owns or controls the constraint?
 
-This module examines whether the constraint sits with utilities, generation owners, transmission operators, interconnection queues, regulators, or large power buyers.
+**Objective:** Examine whether the constraint is primarily associated with utilities, generation owners, transmission operators, interconnection queues, regulators, or large power buyers.
 
 ---
 
@@ -68,36 +68,37 @@ This module examines whether the constraint sits with utilities, generation owne
 
 #### Module 4: Value Chain Analysis
 
-**Question:** Which parts of the AI power value chain benefit or face pressure?
+**Question:** Which parts of the AI power value chain benefit or face greater pressure?
 
-This module connects the constraint to exposed segments such as generation, transmission, grid equipment, utilities, and power procurement.
+**Objective:** Connect the identified constraints to exposed infrastructure segments, including generation, transmission, grid equipment, utilities, and power procurement.
 
 #### Module 5: Capital Allocation Framework
 
-**Question:** How should capital allocation change under different power constraint scenarios?
+**Question:** How may capital allocation change under different power constraint scenarios?
 
-This module translates the research into allocation logic across infrastructure segments.
+**Objective:** Translate the research findings into a structured capital allocation framework across infrastructure segments.
 
 #### Module 6: Public Equity Mapping
 
-**Question:** Which public companies map to the exposed segments of the value chain?
+**Question:** Which public companies are exposed to the identified infrastructure segments?
 
-This module links infrastructure exposure to representative public equities.
+**Objective:** Map representative public equities to the value chain while distinguishing between direct, indirect, and conditional exposure.
 
 #### Module 7: Watchlist and Monitoring
 
-**Question:** What indicators should be tracked as the thesis develops?
+**Question:** Which indicators should be monitored as the thesis evolves?
 
-This module maintains the indicators, companies, regions, and data points that can confirm or weaken the investment view over time.
+**Objective:** Maintain a structured watchlist of regions, companies, infrastructure indicators, and primary data sources that may strengthen or weaken the investment thesis over time.
 
 ---
 
 ## Current Module
 
-| Module                      | Status      |
-| --------------------------- | ----------- |
-| Module 1: Thesis Validation | ✅ Completed |
-| Module 2: Constraint Mapping | 🚧 In progress |
+| Module                       | Status         |
+| ---------------------------- | -------------- |
+| Module 1: Thesis Validation  | ✅ Completed    |
+| Module 2: Constraint Mapping | 🚧 In Progress |
+
 ---
 
 ## Upcoming Research
@@ -128,10 +129,11 @@ This framework emphasizes:
 
 The first module evaluates whether power availability should be treated as a binding constraint for AI infrastructure growth.
 
-Future modules will not revalidate the same thesis. They will map where the constraint exists, who controls it, which segments benefit or face pressure, and how those findings translate into capital allocation.
+Future modules will not revalidate the same thesis. Instead, they examine where the constraint exists, who controls it, which segments of the value chain are exposed, and how those findings may influence long-term capital allocation.
 
 ---
 
 ## Disclaimer
 
 This repository is an independent research project created for educational and investment research purposes. It demonstrates a structured research methodology and does not provide investment advice or security recommendations.
+
