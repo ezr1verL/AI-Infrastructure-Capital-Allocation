@@ -25,15 +25,15 @@ Each module follows the same process:
 
 ## Research modules
 
-| Module | Status |
-| --- | --- |
-| Power constraint thesis validation | Completed |
-| Cooling infrastructure | In progress |
-| Compute infrastructure | Planned |
-| Networking and fiber | Planned |
-| Utilities and generation | Planned |
-| Data center infrastructure | Planned |
-| Company screening | Planned |
+| Module                             | Status      |
+| ---------------------------------- | ----------- |
+| Power constraint thesis validation | Completed   |
+| Cooling infrastructure             | In progress |
+| Compute infrastructure             | Planned     |
+| Networking and fiber               | Planned     |
+| Utilities and generation           | Planned     |
+| Data center infrastructure         | Planned     |
+| Company screening                  | Planned     |
 
 ## Repository structure
 
@@ -50,4 +50,19 @@ research/
 
 data/
 
-images/emonstrate a research process, not to provide investment advice or security recommendations.
+images/
+```
+
+## Methodology
+
+The framework relies on source validation, scenario analysis, regional comparison, and decision mapping. The point is to separate evidence from narrative and make each allocation argument easier to test.
+
+## Current focus
+
+The first module examines whether power availability should be treated as a binding constraint on AI infrastructure expansion.
+
+Future modules will apply the same approach to cooling, compute, networking, utilities, generation, data centers, and company screening.
+
+## Disclaimer
+
+This is an independent research project for educational and investment research purposes. It is meant to demonstrate a research process, not to provide investment advice or security recommendations.
