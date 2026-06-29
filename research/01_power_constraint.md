@@ -81,15 +81,15 @@ Taken together, the evidence supports continued investigation into regional powe
 
 ### 3. What the Evidence Supports
 
-Several observations emerge consistently from the available evidence.
+The available evidence supports several preliminary observations.
 
-**First**, speed-to-power is becoming an increasingly important competitive factor for AI infrastructure deployment.
+Speed-to-power is becoming a more important competitive factor for AI infrastructure deployment.
 
-**Second**, transmission availability, interconnection timelines, substations, transformers, and local grid capacity may become binding constraints even where aggregate generation appears sufficient.
+Transmission availability, interconnection timelines, substations, transformers, and local grid capacity may become binding constraints even in regions where aggregate generation appears sufficient.
 
-**Third**, if power availability increasingly determines where AI infrastructure can be deployed, assets that enable faster access to reliable power may deserve greater research attention than assets that simply benefit from higher compute demand.
+If power availability increasingly determines where AI infrastructure can be deployed, then assets that support faster access to reliable power may deserve more research attention than assets exposed only to higher compute demand.
 
-**Finally**, national electricity forecasts provide useful context, but investment analysis is more likely to depend on regional conditions, utility practices, and localized infrastructure constraints than on national averages alone.
+National electricity forecasts are useful for context. For investment analysis, the more important variables are likely to be regional conditions, utility practices, and local infrastructure constraints.
 
 ### 4. What Remains Uncertain
 
